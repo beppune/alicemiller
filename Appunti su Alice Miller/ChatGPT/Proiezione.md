@@ -1,0 +1,3 @@
+La **proiezione** è un meccanismo di difesa descritto da Sigmund Freud, attraverso il quale un individuo attribuisce inconsciamente ad altri pensieri, emozioni o desideri che non può accettare come propri. Questo processo aiuta a ridurre l'ansia derivante da sentimenti inaccettabili, permettendo alla persona di mantenere un'immagine di sé più coerente con i propri valori e convinzioni.
+
+Ad esempio, una persona che prova invidia ma non riesce a riconoscerla potrebbe accusare gli altri di essere invidiosi di lei. La proiezione può manifestarsi in molteplici contesti, dalle relazioni interpersonali alla percezione dei gruppi sociali, ed è spesso alla base di pregiudizi e conflitti psicologici.
