@@ -10,3 +10,13 @@ La frustazione di tale condizionamento, che non trova libero sfogo nell'espressi
 Miller rifiuta il [[complesso di Edipo]] come causa dello sviluppo di questi problemi, ponendola invece sulla negazione al bambino di poter esprimere le emozioni e alla soppressione della volontà da parte degli educatori. Altri fattori concorrono all'eliminazione del sé tramite manipolazione volta a imprimere la colpa di compotamenti naturali e spontanei del bambino che, non potento esperire la propria volontà, viene piegato all'obbedienza.
 
 Questo tipo di educazione è fatta per soddisfare le necessità dell'educatore e _non quelle del bambino_ che rimangono inascoltate.
+
+### Critiche alla pedagogìa nera e conferme scientifiche
+
+Alice Miller tagliò i ponti dalla psicoanalisi, ritenendo questa inadeguata a scovare le origini della violenza, troppo focalizzata sui meccanismi interni e troppo poco sulle influenze esterne. I critici di questa posizione affermano che Miller ha liquidato i processi dell'inconscio, eliminando dal lavoro di analisi il [[complesso di Edipo]].
+
+Mentre Freud afferma che sia fattori ambientali nella prima infanzia, sia fattori biologici influiscono sulla formazione della personalità, Miller si occupa quasi esclusivamente dei fattori ambientali non tenendo in considerazione l'intricato funzionamento dell'inconscio.
+
+Miller dà troppa rilevanza al comportamento genitoriale, mentre molti altri fattori influenzano lo sviluppo infantile come la cultura, le strategie di adattamento innate dell'individuo facendo del suo lavoro un "One-Size-Fits-All".
+
+Sebbene queste critiche siano valide, la ricerca ha confermato le conseguenze dei traumi infantili sullo sviluppo e [[FKBP5 Methylation|trasmissione epigenetica intergenerazionale]] dei traumi, nello specifico la suscettibilità, nei figli di sopravvissuti all'olocausto, ad **ansia**, **depressione**, **pTSD**.

@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "La Persecuzione del bambino"
             }
+          },
+          {
+            "id": "598625604b0f42bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La Persecuzione del bambino.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La Persecuzione del bambino"
+            }
+          },
+          {
+            "id": "70a954756f1129d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La Persecuzione del bambino.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La Persecuzione del bambino"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,14 +193,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "798fa879d73280d4",
+  "active": "70a954756f1129d1",
   "lastOpenFiles": [
+    "FKBP5 Methylation.md",
+    "La Persecuzione del bambino.md",
     "ChatGPT/Attrazione Verso le caratteristiche delle figure genitoriali.md",
     "ChatGPT/Teoria dell'Imago.md",
-    "La Persecuzione del bambino.md",
     "Citazioni.md",
     "ChatGPT/Pulsione di morte.md",
     "ChatGPT/Proiezione.md",
