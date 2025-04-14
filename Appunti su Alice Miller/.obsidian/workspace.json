@@ -11,10 +11,14 @@
             "id": "56b835ef6e98b932",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT/Coazione a ripetere.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Coazione a ripetere"
             }
           }
         ]
@@ -108,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ChatGPT/Coazione a ripetere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Coazione a ripetere"
             }
           },
           {
@@ -164,6 +169,7 @@
   },
   "active": "56b835ef6e98b932",
   "lastOpenFiles": [
+    "ChatGPT/Coazione a ripetere.md",
     "ChatGPT/Ricordo di copertura.md",
     "FKBP5 Methylation.md",
     "La Persecuzione del bambino.md",
