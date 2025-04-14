@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cbf565b7ea1453d3",
+        "id": "0058707f8b221373",
         "type": "tabs",
         "children": [
           {
-            "id": "956fac26a384d680",
+            "id": "56b835ef6e98b932",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "956fac26a384d680",
+  "active": "56b835ef6e98b932",
   "lastOpenFiles": [
+    "ChatGPT/Ricordo di copertura.md",
     "FKBP5 Methylation.md",
     "La Persecuzione del bambino.md",
     "ChatGPT/Pulsione di morte.md",
