@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChatGPT/Coazione a ripetere.md",
+                "file": "ChatGPT/Proiezione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coazione a ripetere"
+              "title": "Proiezione"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChatGPT/Coazione a ripetere.md",
+                "file": "ChatGPT/Proiezione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Coazione a ripetere"
+              "title": "Outgoing links from Proiezione"
             }
           },
           {
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,13 +169,14 @@
   },
   "active": "56b835ef6e98b932",
   "lastOpenFiles": [
+    "ChatGPT/Attrazione Verso le caratteristiche delle figure genitoriali.md",
+    "FKBP5 Methylation.md",
+    "The Will to Change by Bell Hooks.md",
+    "La Persecuzione del bambino.md",
     "ChatGPT/Coazione a ripetere.md",
     "ChatGPT/Ricordo di copertura.md",
-    "FKBP5 Methylation.md",
-    "La Persecuzione del bambino.md",
     "ChatGPT/Pulsione di morte.md",
     "Citazioni.md",
-    "ChatGPT/Attrazione Verso le caratteristiche delle figure genitoriali.md",
     "ChatGPT/Teoria dell'Imago.md",
     "ChatGPT/Proiezione.md",
     "ChatGPT/Chi lotta contro i mostri.md",
