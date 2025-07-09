@@ -1,3 +1,0 @@
-Ogni richiesta di accesso deve provenire da un referente di Poste per l'attività in oggetto. Ciò avviene tramite mail. All'arrivo di una mail di richiesta l'operatore avvia la creazione di una richiesta inserendo tutti i dati necessati. Qualora questi non siano disponibili, la richiesta rimane in attesa fino a che non si avranno a disposizione tutti i dati. Una richiesta in stato di attesa si può eliminare in qualsiasi momento senza rimanere nella memoria del sistema, neanche come log di operazione.
-
-Una volta completata la compilazione di una richiesta la si può confermare. Ciò causerà la registrazione della richiesta nello stato di [[CONFERMATA]] e una entry nel log delle operazioni. L'operazione di conferma causa una serie di semi-automatismi
